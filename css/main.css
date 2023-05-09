@@ -1,4 +1,8 @@
 body {
-background: orange;
-color: white;
+  background: orange;
+  color: white;
+}
+
+.carousel-inner {
+  height: 70vh;
 }
